@@ -1,4 +1,4 @@
-package com.tasko.tasko_api;
+package com.tasko;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

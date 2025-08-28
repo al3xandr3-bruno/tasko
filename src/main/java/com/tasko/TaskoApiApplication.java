@@ -1,4 +1,4 @@
-package com.tasko.tasko_api;
+package com.tasko;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
